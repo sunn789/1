@@ -54,7 +54,7 @@ def calculate_signal_properties(sample_rate, audio_data):
 ```
 
 
-    c )توضیح دهید که چرا نرخ نمونهبرداری در پردازش گفتار مهم است.
+    c )چرا نرخ نمونه برداری در پردازش گفتار مهم است.
     
 ```txt
 
