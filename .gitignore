@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Audio files (keep sound1.wav as example, ignore others)
+*.wav
+!sound1.wav
+
+# Output files
+output_images/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Generated text files
+*.txt
+!README.md
+!ReadMe.md
+
+# Results and analysis files
+*_results.txt
+*_table.txt
+*_comparison*.txt
+*_performance*.txt
+*_summary*.txt
+filtered_*.wav
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.cache
+
+# OS files
+Thumbs.db
+desktop.ini
+
+# Project specific
+answer.txt
+*.docx
+*.doc
+
